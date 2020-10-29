@@ -1,3 +1,7 @@
 body{
     font-family: 'Source Sans Pro', sans-serif;
 }
+.list-main, .task-main{
+    border: 3px solid #444444;
+    padding: 8px;
+}
